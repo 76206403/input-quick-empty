@@ -5,7 +5,7 @@
     align-items: center;
     width: 100%;
 }
-.input-wrap .quick-empty {
+.input-wrap .quick-empty, .quick-empty-middle, .quick-empty-after {
     padding-right: 22px;
 }
 .input-wrap .input-quick-empty-button {
