@@ -12,7 +12,7 @@
 
 .input-wrap .input-quick-empty-button {
     width: 0;
-    right: 22px;
+    right: 20px;
     position: relative;
     z-index: 999;
 }
