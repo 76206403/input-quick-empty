@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+.input-wrap {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.input-wrap .quick-empty {
+    padding-right: 22px;
+}
+.input-wrap .input-quick-empty-button {
+    width: 0;
+    color: #ccc;
+    right: 22px;
+    position: relative;
+    z-index: 999;
+}
+.input-wrap .input-quick-empty-button .iconfont {
+    font-size: 14px!important;
+    position: unset!important;
+    top: unset!important;
+    left: unset!important;
+    line-height: unset!important;
+}
+.input-wrap .row-reverse {
+    flex-direction: row-reverse;
+}
