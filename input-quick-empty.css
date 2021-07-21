@@ -12,7 +12,6 @@
 
 .input-wrap .input-quick-empty-button {
     width: 0;
-    color: #ccc;
     right: 22px;
     position: relative;
     z-index: 999;
@@ -24,6 +23,11 @@
     top: unset!important;
     left: unset!important;
     line-height: unset!important;
+    color: #ccc!important;
+}
+
+.input-wrap .input-quick-empty-button:hover .iconfont {
+    color: #49a9ee!important;
 }
 
 .input-wrap .row-reverse {
