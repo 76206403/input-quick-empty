@@ -24,10 +24,11 @@
     left: unset!important;
     line-height: unset!important;
     color: #ccc!important;
+    font-weight: 900!important;
 }
 
 .input-wrap .input-quick-empty-button:hover .iconfont {
-    color: #49a9ee!important;
+    color: #666666!important;
 }
 
 .input-wrap .row-reverse {
