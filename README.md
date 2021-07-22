@@ -7,6 +7,6 @@ Add a clear button to the input box
  * 使用:
  *      给input标签的class加上quick-empty/quick-empty-middle/quick-empty-after之一即可
  *
- *      quick-empty: <div><input><a></a></div> (input标签在a标签之前)
- *      quick-empty-middle: <div><i></i><input><a></a></div> (input标签在i标签和a标签之间)
- *      quick-empty-after: <div><a></a><input></div> (input标签在a标签之后)
+ *      quick-empty: input标签为首个元素
+ *      quick-empty-middle: input标签非首个或末尾元素
+ *      quick-empty-after: input标签为末尾元素
