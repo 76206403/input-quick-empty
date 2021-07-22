@@ -18,19 +18,28 @@
 }
 
 .input-wrap .input-quick-empty-button .iconfont {
-    font-size: 14px!important;
-    position: unset!important;
-    top: unset!important;
-    left: unset!important;
-    line-height: unset!important;
-    color: #ccc!important;
-    font-weight: 900!important;
+    font-size: 14px !important;
+    position: unset !important;
+    top: unset !important;
+    left: unset !important;
+    line-height: unset !important;
+    color: #ccc !important;
+    font-weight: 900 !important;
 }
 
 .input-wrap .input-quick-empty-button:hover .iconfont {
-    color: #666666!important;
+    color: #666666 !important;
 }
 
 .input-wrap .row-reverse {
     flex-direction: row-reverse;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.input-wrap a {
+    text-decoration: none !important;
+    background-color: transparent !important;
 }
